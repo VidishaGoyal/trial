@@ -1,1 +1,1 @@
-print("CNN")
+print("CNN!")
