@@ -1,1 +1,2 @@
-print("CNN make")
+print("CNN!")
+
